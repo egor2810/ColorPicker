@@ -51,10 +51,11 @@ final class ViewController: UIViewController {
     
     private func setupSlider(_ slider: UISlider, color: UIColor) {
         slider.minimumValue = 0
-        slider.value = 0
         slider.maximumValue = 1
+        slider.value = 1
         slider.minimumTrackTintColor = color
         
+        changeViewColor()
         changeLabel(for: slider)
     }
     

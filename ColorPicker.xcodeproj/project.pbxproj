@@ -295,6 +295,7 @@
 				DEVELOPMENT_TEAM = 5HNRLGK7M5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ColorPicker/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Color picker";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -304,7 +305,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = AbloginEgor.ColorPicker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -326,6 +327,7 @@
 				DEVELOPMENT_TEAM = 5HNRLGK7M5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ColorPicker/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Color picker";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -335,7 +337,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = AbloginEgor.ColorPicker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
