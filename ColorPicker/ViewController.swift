@@ -64,11 +64,11 @@ final class ViewController: UIViewController {
         
         switch slider.tag {
         case 0:
-                redValueLabel.text = text
+            redValueLabel.text = text
         case 1:
-                greenValueLabel.text = text
+            greenValueLabel.text = text
         default:
-                blueValueLabel.text = text
+            blueValueLabel.text = text
         }
     }
 }
